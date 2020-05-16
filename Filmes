@@ -11,7 +11,7 @@
 
 	<channel>
 		<name>[COLOR blue]ACAO[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesAcao</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -19,7 +19,7 @@
 
 	<channel>
 		<name>[COLOR blue]ANIMACAO[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesAnimacao</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -27,7 +27,7 @@
 
 	<channel>
 		<name>[COLOR blue]AVENTURA[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesAventura</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -35,7 +35,7 @@
 
 	<channel>
 		<name>[COLOR blue]CLASSICOS[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesClassicos</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -43,7 +43,7 @@
 
 	<channel>
 		<name>[COLOR blue]COMÉDIA[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesComedia</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -51,7 +51,7 @@
 
 	<channel>
 		<name>[COLOR blue]DRAMA[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesDrama</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -59,7 +59,7 @@
 
 	<channel>
 		<name>[COLOR blue]FANTASIA[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesFantasia</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -67,7 +67,7 @@
 
 	<channel>
 		<name>[COLOR blue]FAROESTE[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesFaroeste</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -75,31 +75,24 @@
 
 	<channel>
 		<name>[COLOR blue]FICÇÃO[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesFiccao</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
 	</channel>
 
-	<channel>
-		<name>[COLOR blue]FILMES[/COLOR]</name>
-		<externallink></externallink>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-		<info></info><info2></info2>
-	</channel>
 
 	<channel>
 		<name>[COLOR blue]GUERRA[/COLOR]</name>
 		<externallink></externallink>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesGerra</thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
 	</channel>
 
 	<channel>
 		<name>[COLOR blue]HERÓIS[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesHerois</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -107,7 +100,7 @@
 
 	<channel>
 		<name>[COLOR blue]LUTA[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesLuta</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -115,7 +108,7 @@
 
 	<channel>
 		<name>[COLOR blue]ROMANCE[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesRomance</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -123,7 +116,7 @@
 
 	<channel>
 		<name>[COLOR blue]SUSPENSE[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesSuspense</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
@@ -131,7 +124,7 @@
 
 	<channel>
 		<name>[COLOR blue]TERROR[/COLOR]</name>
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/FilmesTerror</externallink>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<info></info><info2></info2>
