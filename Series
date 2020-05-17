@@ -1,0 +1,135 @@
+<channels>
+
+
+	<channel>
+		<name>[COLOR blue]LANÇAMENTOS[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesLancamentos</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]ACAO[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesAcao</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]ANIMACAO[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesAnimacao</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]AVENTURA[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesAventura</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]CLASSICOS[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesClassicos</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]COMÉDIA[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesComedia</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]DRAMA[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesDrama</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]FANTASIA[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesFantasia</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]FAROESTE[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesFaroeste</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]FICÇÃO[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesFiccao</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+
+	<channel>
+		<name>[COLOR blue]GUERRA[/COLOR]</name>
+		<externallink></externallink>
+		<thumbnail>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesGerra</thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]HERÓIS[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesHerois</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]LUTA[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesLuta</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]ROMANCE[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesRomance</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]SUSPENSE[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesSuspense</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+	<channel>
+		<name>[COLOR blue]TERROR[/COLOR]</name>
+		<externallink>https://raw.githubusercontent.com/Jose-Alves92/repor.meutorrent/master/SeriesTerror</externallink>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<info></info><info2></info2>
+	</channel>
+
+
+
+</channels>
